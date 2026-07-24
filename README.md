@@ -226,7 +226,6 @@ Our goal is not only to recover belongings but also to strengthen trust across t
 
 - Visual Studio Code
 - Postman
-- Claude Code
 
 ---
 
